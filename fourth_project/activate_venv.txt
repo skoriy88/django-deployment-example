@@ -1,0 +1,2 @@
+F:\SKORIY\Projects\Udemy\Scripts\activate.bat
+d:\Projects\Udemy\Scripts\activate.bat
